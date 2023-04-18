@@ -9,3 +9,5 @@ Isso é um comentário de várias linhas
 print("Olá " ,nome, "sua idade é ",Idade)
 print("Olá {} sua idade é {} ".format(nome, Idade))
 print(F"Olá {nome} sua idade é {Idade}")
+
+#Estou no clonado _*)
